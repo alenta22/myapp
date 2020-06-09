@@ -8,8 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "\u0016https://github.com/alenta22/myapp.git"
+    "url": "https://github.com/alenta22/myapp.git"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "alen",
+  "license": "ISC",
+  "keywords": [
+    "aplikasi"
+  ]
 }
